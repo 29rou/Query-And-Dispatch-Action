@@ -3,5 +3,5 @@ Github Action Query Repository And Dispatch
 
 
 ***
-© 2021 Yoshiko Sakamto
-Copyright © 2021-2021 toshi All Rights Reserved.
+
+Copyright © 2021-2021 Yoshiki Sakamoto All Rights Reserved.
